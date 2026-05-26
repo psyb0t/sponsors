@@ -1,0 +1,9 @@
+CLAUDE.md
+ANUSTIMES.md
+*.bak
+*.orig
+*.swp
+.DS_Store
+.env
+.env.local
+git-update.sh
