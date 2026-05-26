@@ -45,6 +45,20 @@ DM me. Happy to talk priority feature work, private support, or one-off thank-yo
 
 ---
 
+## Other ways to support
+
+GitHub Sponsors runs on Stripe (KYC, US payment rails). If that's not your thing, here are direct options:
+
+### Monero (XMR)
+
+```
+43jadWcrc1kDKpbZY2rJBKQs2fYYB56vXK5NWDVPatNqBo1SQGUWq1yMZdZ3fuwYAraWpLdPwjJ8GKcUYfg9jHvNCCUycjN
+```
+
+If you want to be listed as a sponsor after sending XMR, reach out via any of the channels in [Contact](#contact) with the tx hash + how you want to be credited.
+
+---
+
 ## Current Sponsors
 
 <!-- SPONSORS_START -->
@@ -68,5 +82,5 @@ For the full list, see [github.com/psyb0t](https://github.com/psyb0t?tab=reposit
 ## Contact
 
 - Website: [ciprian.51k.eu](https://ciprian.51k.eu)
-- GitHub: [@psyb0t](https://github.com/psyb0t)
+- LinkedIn: [in/psyb0t](https://www.linkedin.com/in/psyb0t/)
 - Sponsor: [github.com/sponsors/psyb0t](https://github.com/sponsors/psyb0t)
